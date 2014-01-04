@@ -3,6 +3,10 @@ node-phpjs
 
 This package provides a port for [php.js](http://phpjs.org) to Node.js.
 
+
+## Looking for a new maintainer.  
+### Took this project on and just haven't had the time to maintain it.  Contact me if you are interested.
+
 ### Install
 `npm install phpjs`
 
